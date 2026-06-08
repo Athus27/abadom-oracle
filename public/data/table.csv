@@ -1,0 +1,235 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,429,Câncer de mama,1,Número,2023,779999.7933128823,870764.8194428268,685535.733887902
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,432,Câncer cervical,1,Número,2023,369397.0550772649,474569.57922639686,291593.71002143103
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,435,Câncer de útero,1,Número,2023,108543.85050357494,126136.4057942177,93186.13311865472
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,438,Câncer de próstata,1,Número,2023,472953.2579888803,530138.4684208771,415742.07480774424
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,441,Cólon e câncer de reto,1,Número,2023,1106497.8261164597,1213398.2699524886,997349.3725015557
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,444,Câncer de lábio e cavidade oral,1,Número,2023,225589.55929398703,262169.15744967083,198533.30286939951
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,573,Anorexia nervosa,1,Número,2023,236.90641682235076,373.0935152176143,116.0121271299449
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,588,Glomerulonefrite aguda,1,Número,2023,11089.375355358883,14651.351797767918,7460.89695472546
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,591,Doença renal crônica devido à hipertensão,1,Número,2023,442240.849148297,529826.9885014272,358389.41944255866
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,592,Doença renal crônica por glomerulonefrite,1,Número,2023,193909.91520229905,228972.96531213366,161888.42131526404
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,593,Doença renal crônica devido a outras causas,1,Número,2023,463930.39446723886,544500.6212777314,387602.23588517297
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,595,Nefrite intersticial e infecções do trato urinário,1,Número,2023,288572.00534737983,318749.81373942597,258063.06403265597
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,596,Urolitíase,1,Número,2023,24952.498362985865,29995.282036502806,20961.86779857697
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,602,Outras doenças urinárias,1,Número,2023,82752.27731246725,102155.74474714299,65229.408676783765
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,604,Miomas uterinos,1,Número,2023,3976.659613512319,7380.802644331938,1948.8685656302173
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,607,Endometriose,1,Número,2023,154.24744837002083,522.712981171977,30.931828769534153
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,608,Prolapso genital,1,Número,2023,1613.0951611572373,3463.8039029699416,785.7688321242949
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,612,Outras doenças ginecológicas,1,Número,2023,8316.476364006852,15202.725033735724,3884.293286443795
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,614,Talassemias,1,Número,2023,13510.581983253014,19540.586339912625,9122.906905572376
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,615,Doenças da célula falciforme,1,Número,2023,53983.19930761668,110529.66685726341,26981.25421003996
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,616,Deficiência de G6PD,1,Número,2023,12924.838526353686,21051.880652350872,7610.425288063104
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,618,Outras hemoglobinopatias e anemias hemolíticas,1,Número,2023,51868.69283760911,71734.80569359813,39643.16504710763
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,625,"Outros distúrbios endócrinos, metabólicos, sanguíneos e imunológicos",1,Número,2023,175038.92560668837,197222.66001308535,153272.84445099242
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,938,Cardiomiopatia alcoólica,1,Número,2023,62307.41654706735,71584.79798793493,55987.32369579241
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,940,Eletrocussão,1,Número,2023,42353.23917983037,57335.512227562576,21992.216528131845
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,942,Miocardite,1,Número,2023,16913.32881625386,24090.501202834843,11281.813776708073
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,943,Outras leucemias,1,Número,2023,61631.77484077003,76951.06068521779,49211.61542635909
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,944,Outras cardiomiopatias,1,Número,2023,320647.73653163074,380680.2925263832,260315.29909716905
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,945,Conflito e terrorismo,1,Número,2023,159052.07262928638,208638.41870601915,125624.30559498907
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,946,Tuberculose multirresistente sem resistência extensiva a drogas,1,Número,2023,95494.42714985415,224081.8273123056,28936.76096689156
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,947,Tuberculose extensivamente resistente a drogas,1,Número,2023,6760.465610058704,14542.99494098383,2649.0952121013347
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,948,HIV/AIDS - Tuberculose suscetível a drogas,1,Número,2023,190471.81923963537,252542.66194815334,125206.78586969676
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,949,HIV/AIDS - Tuberculose multirresistente sem resistência extensiva a drogas,1,Número,2023,18772.714719983196,38883.915885902235,6495.826353302598
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,950,HIV/AIDS - Tuberculose extensivamente resistente a drogas,1,Número,2023,808.579645228155,1613.5446496430893,319.725314371039
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,959,Infecção por Salmonela invasiva não-tifoide,1,Número,2023,76714.52003755869,100105.99533201323,60045.606857816834
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,964,"Síndrome mielodisplática,mieloproliferativa, e outras neoplasias do tecido hematopoiético",1,Número,2023,62014.08309910953,71830.43228311607,51708.90320843195
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,968,Estenose aórtica não reumática,1,Número,2023,149418.33608449198,166060.53870978532,120141.71747055803
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,969,Transtornos não reumáticos da valva aórtica,1,Número,2023,39768.45767491905,50737.70158180877,32430.740424722047
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,970,Outras doenças valvares não reumáticas,1,Número,2023,2128.129791096104,3326.5571348446542,1311.8346165779062
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,342,Varicela e herpes zoster,1,Número,2023,13674.065937374648,14766.937353529405,12235.6803007216
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,345,Malária,1,Número,2023,669960.052969193,1257918.0033519955,261247.14299786967
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,346,Doença de Chagas,1,Número,2023,8417.513594943948,9357.20958425605,7482.703312011615
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,498,Doença cardíaca hipertensiva,1,Número,2023,1483889.2705556552,1823186.1764225345,1178125.0268421706
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,500,Fibrilação e flutter atrial,1,Número,2023,377258.07747987367,423719.73486118,318792.86050526873
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,501,Aneurisma da aorta,1,Número,2023,167483.2346932996,187434.94741140705,147176.61209853593
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,502,Doença vascular periférica de membros inferiores,1,Número,2023,74856.44972475889,83044.56595710065,66046.95089731055
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,503,Endocardite,1,Número,2023,86231.45690328821,100818.86607540163,74238.43157104688
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,507,Outras doenças cardiovasculares e circulatórias,1,Número,2023,265834.02056819445,317791.2476108911,217041.42898330683
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,509,Doença pulmonar obstrutiva crônica,1,Número,2023,3417098.1800203123,4068463.667985686,2945824.2928744224
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,511,Silicose,1,Número,2023,10970.958766892554,15143.274657631084,7631.635110801806
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,512,Asbestose,1,Número,2023,3010.6603523777026,3964.800231411764,2403.643605261769
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,513,Pneumoconiose dos trabalhadores da carvoaria,1,Número,2023,2308.520588183078,3047.048827957626,1665.8347170132856
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,514,Outras pneumoconioses,1,Número,2023,2370.764944815336,3618.907937825812,1571.9798117054424
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,515,Asma,1,Número,2023,441951.6724242933,665192.5152309256,305775.3099884034
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,387,Desnutrição protéico-calórica,1,Número,2023,245568.12716464448,300688.1545827789,195615.187387486
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,391,Outras deficiências nutricionais,1,Número,2023,42784.809207117054,58365.96885791306,30016.033621125367
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,394,Sífilis,1,Número,2023,77016.81004216842,147297.17580351696,29533.70810765743
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,528,Gastrite e duodenite,1,Número,2023,42915.319459708655,58506.89345246465,27112.34645269418
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,529,Apendicite,1,Número,2023,30971.497523487284,43529.94559592989,21878.420166555978
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,530,Íleo paralítico e obstrução intestinal,1,Número,2023,243696.2401743603,286270.4386621997,201638.46042464708
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,531,"Hérnia inguinal, femoral e abdominal",1,Número,2023,51116.7938251212,67368.09678996338,38920.45341169948
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,533,Transtornos vasculares intestinais,1,Número,2023,92654.50657445614,102559.79787820966,82370.32170173115
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,534,Doenças biliares e da vesícula biliar,1,Número,2023,146671.4475824747,171308.9465539648,121832.31253774559
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,535,Pancreatite,1,Número,2023,124453.11462944103,147312.29378409378,107731.04781919428
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,543,Doença de Alzheimer e outras demências,1,Número,2023,2208098.428737155,5355006.476907758,547661.590929747
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,544,Doença de Parkinson,1,Número,2023,426724.4020481884,469484.4532902773,378873.3313281244
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,545,Epilepsia,1,Número,2023,159360.0612594272,202912.9622490147,125362.88622753954
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,546,Esclerose múltipla,1,Número,2023,19061.70093156684,21672.862958573798,17359.721418260193
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,554,Doença do neurônio motor,1,Número,2023,44629.13873005401,50011.17044347844,40846.62476443524
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,557,Outros transtornos neurológicos,1,Número,2023,159277.81355069974,180018.84444963498,137332.865179795
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,560,Transtornos relacionados ao uso de álcool,1,Número,2023,171564.81108922066,197003.78968839394,154422.5070261996
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,562,Transtornos relacionados ao uso de opioides,1,Número,2023,125894.68380534495,144782.2986807177,108169.29816389353
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,563,Transtornos relacionados ao uso de cocaína,1,Número,2023,17581.327872606715,21674.288354272885,13920.189061357012
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,564,Transtornos relacionados ao uso de anfetaminas,1,Número,2023,11996.348878703593,14977.994728997424,9578.815805955745
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,566,Transtornos relacionados ao uso de outras drogas,1,Número,2023,17035.586090398174,20567.22307736717,14696.655953555031
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,721,Autolesão por arma de fogo,1,Número,2023,66573.07101524736,86134.51240254006,51458.50887308789
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,725,Assalto por arma de fogo,1,Número,2023,185640.50360727697,209200.32888451035,167482.0767152758
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,726,Assalto por objeto perfurocortante,1,Número,2023,89878.88231654678,125805.40661601191,67275.6917372315
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,727,Assalto por outros meios,1,Número,2023,160154.76131167475,204646.6164846242,125311.37390626746
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,729,Exposição às forças da natureza,1,Número,2023,88594.27754256873,97393.66466911104,80669.15446964954
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,741,Mortes maternas agravadas pelo HIV/AIDS,1,Número,2023,1665.6716849469,2327.387896174523,1047.0446764041526
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,842,Calor ambiental e exposição ao frio,1,Número,2023,83378.53723942216,95702.36490724431,71489.46836988043
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,843,Ebola,1,Número,2023,0.0,0.0,0.0
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,845,Leucemia linfoide aguda,1,Número,2023,77414.14910105946,98557.44579979032,54205.312573007526
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,846,Leucemia linfoide crônica,1,Número,2023,44798.354305380155,51602.723218305146,39554.490403473
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,847,Leucemia mieloide aguda,1,Número,2023,131543.14701256927,152448.21720579412,112520.01188402316
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,848,Leucemia mieloide crônica,1,Número,2023,26328.28349000976,32700.192986340367,21178.81986751058
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,849,Câncer de pele não melanoma (carcinoma de células escamosas),1,Número,2023,63830.087003013934,71437.71437290305,54323.71648352658
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,854,Conflitos policiais e execuções,1,Número,2023,8889.022299265791,13330.946828722645,6291.051476413461
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,934,Tuberculose suscetível a drogas,1,Número,2023,908207.9283121676,1140890.417590259,670590.4985764701
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,935,Zika virus,1,Número,2023,0.2508411446369897,0.5573686362558583,0.12097352131501207
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,495,AVC isquêmico,1,Número,2023,3272359.8483223487,3682163.954582638,2865511.4525625813
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,496,AVC hemorrágico,1,Número,2023,3155093.6049691504,3546020.2471856317,2753489.8752628756
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,497,Acidente hemorrágico subaracnóide,1,Número,2023,357229.8364271271,429989.63833597273,303551.0951583319
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,627,Artrite reumatoide,1,Número,2023,45857.03180838508,57803.59588662403,32722.763117808227
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,639,Outros distúrbios musculoesqueléticos,1,Número,2023,85817.60355056581,103606.69080089846,67866.06420636547
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,642,Defeitos do tubo neural,1,Número,2023,41672.04075666799,69113.66784924308,24562.245841419706
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,643,Anomalias congênitas do coração,1,Número,2023,301150.6295031986,390426.78074891126,233308.35113435204
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,644,Fissura labial e fissura palatina,1,Número,2023,3273.4330462173534,10055.849921431258,710.6027990325844
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,645,Síndrome de Down,1,Número,2023,29272.720049312342,43690.02103328778,17778.937110196668
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,648,Outras anomalias cromossômicas,1,Número,2023,22866.011678698895,35962.06477985241,15384.834442602296
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,649,Anomalias congênitas musculoesqueléticas e dos membros,1,Número,2023,9657.7810678267,14950.356696302186,6162.254913139066
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,650,Anomalias urogenitais congênitas,1,Número,2023,16925.346284590552,30814.989134818832,9325.396351221929
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,651,Anomalias digestivas congênitas,1,Número,2023,66947.92337708254,97095.65641604697,41992.33297302491
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,652,Outras anomalias congênitas,1,Número,2023,70867.72131141445,132882.86150325544,37726.03994272174
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,656,Celulite,1,Número,2023,39662.53883536264,55538.09732166356,28866.655952071083
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,657,Pioderma,1,Número,2023,62001.97760027923,79011.14941053595,49041.94829370026
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,395,Infecção por clamídia,1,Número,2023,1477.7733212625617,2594.9099125874955,871.5195674510219
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,396,Infecção gonocócica,1,Número,2023,624.7235434867958,1029.0153105292893,386.1485110823675
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,399,Outras doenças sexualmente transmissíveis,1,Número,2023,4623.555946710921,7951.343269338531,2774.723016194495
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,401,Hepatite A aguda,1,Número,2023,35569.341286339615,52007.31345400368,21800.454103635268
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,402,Hepatite B,1,Número,2023,45847.04699388263,66840.47015675313,27949.77278449438
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,403,Hepatite C,1,Número,2023,7206.702153178567,11850.833398846578,3839.2156112373204
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,404,Hepatite E aguda,1,Número,2023,4431.641951397109,8082.419905042762,2052.7568862093663
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,408,Outras doenças infecciosas,1,Número,2023,116949.09407911969,191916.53529763315,65337.224054313214
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,411,Câncer de esôfago,1,Número,2023,575810.8836390107,640723.4790907365,504539.8360652339
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,414,Câncer de estômago,1,Número,2023,934094.1016597322,1081141.6245929329,797064.1012262222
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,418,Câncer de fígado devido à hepatite B,1,Número,2023,188536.35797877575,220863.35500655515,161596.02557259047
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,419,Câncer de fígado devido à hepatite C,1,Número,2023,155372.30700027168,186347.07632889476,130975.64012062874
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,420,Câncer de fígado devido ao uso de álcool,1,Número,2023,95067.57854800337,117582.90921645354,75922.58792205216
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,421,Câncer de fígado devido a outras causas,1,Número,2023,23647.386591756545,29670.847948198505,18461.1700525805
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,423,Câncer de Laringe,1,Número,2023,130731.29305643472,156331.54617326823,112063.36420743511
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,426,"Câncer de traqueia, brônquios e pulmão",1,Número,2023,2034684.4313994371,2210638.178390339,1856204.145754678
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,516,Doença pulmonar intersticial e sarcoidose pulmonar,1,Número,2023,213169.6332239273,261112.16618402253,176128.73183924158
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,520,Outras doenças respiratórias crônicas,1,Número,2023,63571.320914660224,90042.86036159462,46551.661090862304
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,522,Cirrose e outras doenças hepáticas crônicas devido à hepatite B,1,Número,2023,394099.47543330496,464382.5019896415,324622.69523369754
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,523,Cirrose e outras doenças hepáticas crônicas devido à hepatite C,1,Número,2023,334522.6939262881,403689.5469550772,276838.98462811636
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,524,Cirrose e outras doenças hepáticas crônicas devido ao uso de álcool,1,Número,2023,308800.9461305446,358191.16057225177,259337.3669773657
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,525,Cirrose e outras doenças hepáticas crônicas devido a outras causas,1,Número,2023,154645.5077604316,200264.1346109694,118812.34442883354
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,527,Úlcera péptica,1,Número,2023,222399.23630948892,281793.578837522,180215.4051774826
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,693,Acidente de trânsito com veículo motorizado,1,Número,2023,518423.11610464344,647976.5479118587,416604.0707582223
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,694,Outros acidentes de trânsito,1,Número,2023,15369.867299235393,22573.410788334295,10030.687622202484
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,695,Outros acidentes de transporte,1,Número,2023,82023.30175472636,112140.54848656416,55786.790633031276
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,697,Quedas,1,Número,2023,857112.6188042145,1002002.0720113728,723350.2286879284
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,698,Afogamento,1,Número,2023,291139.60529960616,362863.5797623635,234030.33691248845
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,699,"Incêndio, calor e substâncias quentes",1,Número,2023,150653.20720609714,204928.63704421342,102842.19576022429
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,701,Intoxicação por gases e vapores,1,Número,2023,30890.425862175995,39849.64902179046,24383.17593579482
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,703,Intoxicação por outros meios,1,Número,2023,38914.09026380897,55812.67761964452,24515.644676166725
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,705,Ferimentos não intencionais por arma de fogo,1,Número,2023,16210.889621882456,25795.991160086276,10038.72590802102
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,707,Outras exposições a forças mecânicas,1,Número,2023,87842.94385094727,127328.97892675542,60554.23133849467
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,708,Efeitos adversos de tratamento médico,1,Número,2023,102532.37098249361,128578.97432234029,85252.03773983556
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,710,Contato com animal venenoso,1,Número,2023,93670.448434718,137066.07344867106,56311.75177703188
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,711,Contato com animal não venenoso,1,Número,2023,9457.455423324698,14946.436164725636,5219.289846249076
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,713,Aspiração pulmonar e corpo estranho nas vias aéreas,1,Número,2023,117510.90060158075,144643.2463289483,89983.93019120439
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,715,Corpo estranho em outra parte do corpo,1,Número,2023,2281.252888827577,3777.7101013387187,1296.0370383602167
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,716,Outros ferimentos não intencionais (internos),1,Número,2023,65216.5652713328,104330.37094418028,39733.564826203896
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1027,Carga total relacionada a hepatite c,1,Número,2023,497101.7030797384,566141.0558240135,426253.8184645102
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1028,Carga total relacionada a NASH,1,Número,2023,131483.46259994654,164879.6449117427,103446.195074439
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1029,Total de canceres,1,Número,2023,10434120.432555158,11031333.441804592,9605088.887119193
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1032,Transtornos da tireóide,1,Número,2023,32401.977988052426,41074.21029202538,25609.41053756992
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1048,COVID-19,1,Número,2023,846983.2709974273,909265.924292127,751414.9281251638
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1059,Total Cancers excluding Non-melanoma skin cancer,1,Número,2023,10370290.345552145,10961438.621535558,9549685.682257704
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1160,Other direct maternal disorders,1,Número,2023,35735.558735589155,51848.78474266634,25166.77600941392
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1161,Other digestive diseases,1,Número,2023,132829.72350620374,154486.78864251243,113544.08437062227
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1163,Self-harm by other specified means,1,Número,2023,701043.3708807322,789005.3326043102,610424.1075617295
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1164,Other benign and in situ neoplasms,1,Número,2023,62450.21372277771,78990.60455513374,49110.99505583136
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,665,Úlcera de decúbito,1,Número,2023,48046.20022676582,62769.38082252357,36265.49535112316
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,668,Outras doenças da pele e tecidos subcutâneos,1,Número,2023,11325.390003772154,17634.731724735626,6929.424189321305
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,686,Síndrome de morte súbita infantil,1,Número,2023,25583.02884682628,40131.869722661126,15760.794709475967
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,690,Acidentes de trânsito com pedestre,1,Número,2023,401237.9063346593,531825.2551745943,294717.9304196326
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,691,Acidentes de trânsito com ciclista,1,Número,2023,88844.23127150699,127070.1664472918,61396.18537977065
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,692,Acidentes de trânsito com motociclista,1,Número,2023,319171.6387929139,416227.7758179341,216520.18718436392
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,971,Cirrose devido a esteatosose hepática não alcoólica,1,Número,2023,89762.1789113519,120282.01740140995,64645.30821836453
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,975,Diabetes mellitus tipo I,1,Número,2023,54342.10991643567,71591.04653282977,42248.337309809816
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,976,Diabetes mellitus tipo II,1,Número,2023,1948729.6563173183,2234152.0966013474,1645036.4349733377
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,995,Aborto,1,Número,2023,19645.66904489183,30848.665234359414,12200.596931904673
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,996,Cancer do fígado devido a esteatose hepática não alcoólica,1,Número,2023,41721.28368859461,52601.46768900531,31558.60358301762
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,997,Doença renal crônica devido ao diabetes mellitus tipo I,1,Número,2023,76487.61737065138,98436.94619616012,56396.416655191315
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,348,Leishmaniose visceral,1,Número,2023,4626.681757544873,8724.216918203385,1853.112087147737
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,350,Tripanossomíase Africana,1,Número,2023,1416.593472610632,2490.9899448570013,671.7789935930998
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,351,Esquistossomose,1,Número,2023,13466.783406856386,14771.2975749094,12276.015392222142
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,352,Cisticercose,1,Número,2023,1511.0633423092313,2053.893049544944,1092.3842560048902
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,353,Equinococose cística,1,Número,2023,1371.1903672345586,1810.621975826944,974.4561813652789
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,357,Dengue,1,Número,2023,52677.80697497037,108884.3221855489,25241.59073038347
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,358,Febre amarela,1,Número,2023,4419.433043993658,9302.49496655411,1546.8959037299696
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,359,Raiva,1,Número,2023,15811.106041566609,27439.316757341632,6661.030422733646
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,361,Ascaridíase,1,Número,2023,4973.149310501549,6151.431955395165,3838.705697213453
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,365,Outras doenças tropicais negligenciadas,1,Número,2023,26263.06441453079,48302.06871798731,12978.397507665804
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,367,Hemorragia materna,1,Número,2023,51988.07165332694,69979.38380298975,35767.446470866525
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,368,Sepse materna e outras infecções maternas,1,Número,2023,26741.462902700066,37067.324282079426,19034.108272218436
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,369,Distúrbios da hipertensão materna,1,Número,2023,48207.50094961734,59907.599203498685,37342.79180913883
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,370,Trabalho de parto obstruído e ruptura uterina,1,Número,2023,12175.03328179562,18422.676062805578,7508.140050655838
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,374,Gravidez ectópica,1,Número,2023,12713.883282964132,17812.00483360083,8498.021381537019
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,375,Mortes maternas indiretas,1,Número,2023,23037.817115772934,32739.12786461598,16348.487418800702
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,376,Mortes maternas tardias,1,Número,2023,8017.876113188646,9867.948401561494,6752.530173071891
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,381,Complicações neonatais do parto prematuro,1,Número,2023,623302.5734565497,735006.3124018019,509686.73080031044
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,382,Encefalopatia neonatal devido a asfixia e trauma no nascimento,1,Número,2023,562119.7483791884,678691.8988248988,471443.0003587597
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,383,Sepse neonatal e outras infecções neonatais,1,Número,2023,223221.13504062576,315222.0247013394,155596.23622885186
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,384,Doença hemolítica e outra icterícia neonatal,1,Número,2023,30337.15961760571,47794.893277508025,16702.291539221595
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,385,Outros transtornos do período neonatal,1,Número,2023,188981.11645141404,267413.0404440486,124186.1349597352
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,998,Doença renal crônica devido ao diabetes mellitus tipo II,1,Número,2023,343162.6830351336,413932.8782887155,271095.0869606966
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1004,Hipertensão arterial pulmonar,1,Número,2023,22736.12315632652,29745.737532053183,17483.791274386193
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1005,Hepatoblastoma,1,Número,2023,3508.8362802617175,5212.346370834347,2279.800899182704
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1006,Linfoma de Burkitt,1,Número,2023,6729.69900289523,9567.90535900742,5051.125414741558
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1007,Outro linfoma não Hodgkin,1,Número,2023,276228.02720089076,312524.98217499844,241567.13363181773
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1009,Retinoblastoma,1,Número,2023,3225.6782471881415,7010.263835650004,1268.6409377110765
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1010,Outros cânceres oculares,1,Número,2023,6857.143002435936,8841.381865732279,5372.879691299351
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1011,Sarcomas de tecidos moles e outros sarcomas extraósseos,1,Número,2023,60896.514476169286,75744.08103883195,49005.00490592082
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1012,Neoplasma maligno de osso e cartilagem articular ,1,Número,2023,76611.29053729815,96284.38831542818,60740.54800735734
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1013,Neuroblastoma e outros tumores de célula nervosa periférica ,1,Número,2023,6007.1290994450765,7636.393034937405,5023.120741968579
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1024,Colite ulcerativa,1,Número,2023,39558.544164879226,45772.211867715174,34073.11973814899
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1025,Doença de Crohn,1,Número,2023,6977.86159718149,8529.488924164816,5886.791189980871
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,1026,Carga total relacionada a hepatite b,1,Número,2023,628482.8804059636,707389.2660724055,537277.6552934918
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,447,Câncer de nasofaringe,1,Número,2023,75329.16788914562,89031.68257803243,63228.42116143534
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,450,Outro câncer da faringe,1,Número,2023,113895.71240610447,140619.08706662766,92506.98492317041
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,453,Câncer da vesícula biliar e das vias biliares,1,Número,2023,183933.96161568124,220491.8624045452,159747.55909816406
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,456,Câncer de pâncreas,1,Número,2023,552299.9960597267,588050.9362765477,501579.52864125295
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,459,Melanoma maligno da pele,1,Número,2023,66556.89397304929,75218.57744640605,59902.93872113738
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,465,Câncer de ovário,1,Número,2023,220942.26639623765,255002.70894556862,191535.9870332604
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,468,Câncer de testículo,1,Número,2023,11909.59772527629,14681.81895509338,9639.765891662728
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,471,Câncer renal,1,Número,2023,165265.96096536057,179929.8618509621,146673.00259875783
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,474,Câncer de bexiga,1,Número,2023,233666.1298202577,257520.84435804325,208489.4195761623
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,477,Neoplasia não maligna da bexiga,1,Número,2023,263866.7965580674,312930.19511143933,230360.10079812215
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,480,Câncer de tireoide,1,Número,2023,52193.44429665254,61454.46951910352,44673.34574024051
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,483,Mesotelioma,1,Número,2023,27972.29415224559,30850.16282648444,24751.521299451808
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,484,Linfoma de Hodgkin,1,Número,2023,27149.234410038185,34849.025511079366,21038.62291574896
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,486,Mieloma múltiplo,1,Número,2023,125087.02601574728,136974.03152418582,112767.15522793231
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,489,Outras neoplasias malignas,1,Número,2023,225794.87081711603,250703.56008842165,196807.0027058094
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,492,Doença reumática cardíaca,1,Número,2023,388794.22935082257,554148.6981725475,260877.32597915965
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,493,Doença isquêmica do coração,1,Número,2023,8896068.536088709,9646991.44092591,8038413.165406049
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,300,HIV/AIDS resultando em outras doenças,1,Número,2023,623121.9305912721,769739.3498876409,518983.9723440613
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,302,Doenças diarreicas,1,Número,2023,1107128.3749863298,1535841.4970945364,810533.3541363218
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,319,Febre tifóide,1,Número,2023,71954.70531654547,118560.12445577596,38051.14253171652
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,320,Febre paratifóide,1,Número,2023,10853.374516768508,20939.622513431215,5227.218174753201
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,321,Outras doenças infecciosas intestinais,1,Número,2023,1938.0169637012254,2443.4379738263065,1448.5866790209132
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,322,Infeções de vias aéreas inferiores,1,Número,2023,2501138.5682733757,2811711.568178583,2240273.9879636248
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,328,Infeções de vias aéreas superiores,1,Número,2023,27049.422178616518,77248.7125433149,6099.888776933322
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,329,Otite média,1,Número,2023,652.1845845449672,1695.3587108745392,253.27779606340587
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,332,Meningite,1,Número,2023,258797.6549845189,334586.3777844731,202197.76851552058
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,337,Encefalite,1,Número,2023,76485.41276156591,113364.3852780414,54667.54052297812
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,338,Difteria,1,Número,2023,4007.112255620871,5290.368004334,3005.218332375033
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,339,Coqueluche,1,Número,2023,115242.90566356534,189184.83016744882,66577.32563662523
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,340,Tétano,1,Número,2023,19758.24191108715,31047.520616353555,11735.032880404857
+1,Toda a população,1,Óbitos,1,Global,3,Ambos,22,Todas as idades,341,Sarampo,1,Número,2023,143631.71196662227,255222.86381771596,58561.69681764726
