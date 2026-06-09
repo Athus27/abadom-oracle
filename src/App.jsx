@@ -6,27 +6,11 @@ import { Entrada } from "../pages/Entrada";
 import { Sobre } from "../pages/Sobre";
 import { Route, Routes, useNavigate } from "react-router-dom";
 import { Teste } from "../pages/Teste";
-import { useLottie } from "lottie-react";
-import deathAnimation from "./assets/animations/death.json";
+import { DeathAnimation } from "../components/DeathAnimation";
 import SkullIcon from "./assets/icons/skull.svg";
 import { Footer } from "../components/Footer";
 function App() {
 	const navigate = useNavigate();
-
-	const { View } = useLottie(
-		{
-			animationData: deathAnimation,
-			loop: true,
-			autoplay: true,
-			rendererSettings: {
-				preserveAspectRatio: "xMidYMid meet"
-			}
-		},
-		{
-			width: "100%",
-			height: "100%"
-		}
-	);
 
 	return (
 		<div className="app-shell">
@@ -52,7 +36,7 @@ function App() {
 									</div>
 								</div>
 								<div className="home-hero__visual" aria-hidden="true">
-									{View}
+									<DeathAnimation />
 								</div>
 							</main>
 						}

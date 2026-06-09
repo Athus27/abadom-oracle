@@ -447,7 +447,7 @@ select:focus-visible {
   color: color-mix(in srgb, var(--foreground) 72%, transparent);
   font-size: 0.88rem;
 }
-
+/* container da animação de morte */
 .home-hero__visual {
   justify-self: end;
   width: min(100%, clamp(280px, 40vw, 560px));

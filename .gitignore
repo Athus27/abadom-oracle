@@ -1,5 +1,6 @@
 node_modules/
 dist/
+entrega/
 .DS_Store
 *.log
 .env
