@@ -540,22 +540,53 @@ export const oracleQuestions = [
   },
 ];
 
-export function calcularResultado(respostas) {
-  const placar = {};
+const causeNames = Object.keys(causeInfo);
+const deathsLogScale = causeNames.map((causeName) => Math.log10(causeInfo[causeName].deaths));
+const minDeathsLog = Math.min(...deathsLogScale);
+const maxDeathsLog = Math.max(...deathsLogScale);
+
+const maxScoreByCause = oracleQuestions.reduce((maxScores, question) => {
+  causeNames.forEach((causeName) => {
+    const questionMaxScore = Math.max(...question.answers.map((answer) => answer.scores?.[causeName] ?? 0));
+    maxScores[causeName] = (maxScores[causeName] ?? 0) + questionMaxScore;
+  });
+
+  return maxScores;
+}, {});
+
+function getPrevalenceScore(causeName) {
+  if (maxDeathsLog === minDeathsLog) return 0;
+
+  return (Math.log10(causeInfo[causeName].deaths) - minDeathsLog) / (maxDeathsLog - minDeathsLog);
+}
+
+export function calcularResultado(respostas, limite = 3) {
+  const rawScores = Object.fromEntries(causeNames.map((causeName) => [causeName, 0]));
+  const evidenceCount = Object.fromEntries(causeNames.map((causeName) => [causeName, 0]));
 
   respostas.forEach((resposta) => {
-    Object.entries(resposta.scores || {}).forEach(([causa, pontos]) => {
-      placar[causa] = (placar[causa] || 0) + pontos;
+    Object.entries(resposta?.scores ?? {}).forEach(([causa, pontos]) => {
+      rawScores[causa] = (rawScores[causa] ?? 0) + pontos;
+      evidenceCount[causa] = (evidenceCount[causa] ?? 0) + 1;
     });
   });
 
-  return Object.entries(placar)
-    .map(([causeName, score]) => {
+  return causeNames
+    .map((causeName) => {
       const info = causeInfo[causeName];
+      const rawScore = rawScores[causeName] ?? 0;
+      const normalizedScore = maxScoreByCause[causeName] ? rawScore / maxScoreByCause[causeName] : 0;
+      const prevalenceScore = getPrevalenceScore(causeName);
+      const balancedSignal = maxScoreByCause[causeName] ? rawScore / Math.pow(maxScoreByCause[causeName], 0.65) : 0;
+      const score = rawScore > 0 ? balancedSignal + prevalenceScore * 0.08 : prevalenceScore * 0.01;
 
       return {
         causeName,
         score,
+        rawScore,
+        normalizedScore,
+        evidenceCount: evidenceCount[causeName] ?? 0,
+        confidence: Math.round(Math.min(99, normalizedScore * 100)),
         label: info?.label ?? causeName,
         group: info?.group ?? "desconhecido",
         deaths: info?.deaths ?? 0,
@@ -564,7 +595,9 @@ export function calcularResultado(respostas) {
     })
     .sort((a, b) => {
       if (b.score !== a.score) return b.score - a.score;
+      if (b.normalizedScore !== a.normalizedScore) return b.normalizedScore - a.normalizedScore;
+      if (b.rawScore !== a.rawScore) return b.rawScore - a.rawScore;
       return b.deaths - a.deaths;
     })
-    .slice(0, 3);
+    .slice(0, limite);
 }

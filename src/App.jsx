@@ -1,14 +1,16 @@
 // ATHUS SILVA SOUZA 22.2.8079
-
-
-import { Header } from "../components/Header";
-import { Entrada } from "../pages/Entrada";
-import { Sobre } from "../pages/Sobre";
 import { Route, Routes, useNavigate } from "react-router-dom";
-import { Teste } from "../pages/Teste";
+
 import { DeathAnimation } from "../components/DeathAnimation";
 import SkullIcon from "./assets/icons/skull.svg";
+import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
+
+import { Entrada } from "../pages/Entrada";
+import { Sobre } from "../pages/Sobre";
+import { Teste } from "../pages/Teste";
+import { Dashboard } from "../components/Dashboard";
+
 function App() {
 	const navigate = useNavigate();
 
@@ -43,7 +45,7 @@ function App() {
 					/>
 					<Route path="/Sobre" element={<Sobre />} />
 					<Route path="/Entrada" element={<Entrada />} />
-					<Route path="/Teste" element={<Teste />} />
+					<Route path="/Dados" element={<Dashboard />} />
 				</Routes>
 			</div>
 			<Footer/>
