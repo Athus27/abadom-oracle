@@ -45,6 +45,7 @@ function App() {
 					/>
 					<Route path="/Sobre" element={<Sobre />} />
 					<Route path="/Entrada" element={<Entrada />} />
+					<Route path="/Teste" element={<Teste />} />
 					<Route path="/Dados" element={<Dashboard />} />
 				</Routes>
 			</div>
