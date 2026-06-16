@@ -8,6 +8,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  base: '/Oraculo-da-Morte/',
   resolve: {
     alias: {
       // Aqui você define que o "@" aponta para a pasta "src"
